@@ -1,6 +1,6 @@
-#hedgehog solver
+# Hedgehog Solver
 
-Solves the hedgehog logic puzzle in orchard mode (4 zones - hedgehog can move both ways)
+Solves the hedgehog logic puzzle in orchard mode (4 zones - hedgehog can move clockwise or counter-clockwise)
 
 Will add more modes soon.
 
